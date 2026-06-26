@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Junior Research Group Medical Image Computing"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Medical Image Computing"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://Wulle192.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://Wulle192.github.io/MICgroup"
@@ -24,25 +24,25 @@ repository               : "Wulle192/MICgroup.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Dr. Daniel Wulff"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Rostock, Germany"
+  employer         : "University of Rostock"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "d.wulff@uni-rostock.de" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.de/citations?view_op=list_works&hl=de&user=y4TS8SoAAAAJ&gmla=ALUCkoV-Nh7O_iCjW3lfmY4iehSmUCSrpYXEGo-aZ0-fYrOsWb8QqmwfzuznuasJp0kT7ZPV8UU3PzGCIP0XsOpHXekNvMpT98g8fg8ArDfR1S1Dt3LL9lyW"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-8892-5371"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Daniel-Wulff?ev=hdr_xprf" # URL
   scopus           : # URL
   zotero           : # URL
 
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
