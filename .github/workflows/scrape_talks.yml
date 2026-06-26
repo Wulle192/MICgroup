@@ -32,9 +32,9 @@ jobs:
           python -m pip install --upgrade pip
           python -m pip install jupyter nbconvert pandas requests beautifulsoup4 geopy getorg
 
-      - name: Run notebook (FORCED Python 3.11)
-        run: |
-          python -m jupyter nbconvert --to notebook --execute talkmap.ipynb --output talkmap_out.ipynb
+      #- name: Run notebook (FORCED Python 3.11)
+      #  run: |
+      #    python -m jupyter nbconvert --to notebook --execute talkmap.ipynb --output talkmap_out.ipynb
 
       - name: Commit changes
         run: |
