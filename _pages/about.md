@@ -11,7 +11,7 @@ redirect_from:
 
 I am a researcher working at the intersection of **machine learning** and **medical image analysis**, with a particular focus on **uncertainty-aware and knowledge-informed approaches**. My work aims to make deep learning models more reliable, interpretable, and robust for real-world applications.
 
----
+
 
 ## Research Interests
 
@@ -23,32 +23,33 @@ My current research focuses on:
 - **Knowledge-Informed Deep Learning**  
   Integrating prior knowledge, physical constraints, or domain expertise into deep learning models to improve generalization and trustworthiness.
 
----
+
 
 ## Applications
 
 I apply these methods primarily in the field of **medical imaging**, including:
 
 - **Angiography**
-- **Ultrasound imaging**
+- **X-ray**
+- **2D / 3D Ultrasound imaging**
 - Other clinical imaging modalities
 
 The goal is to build systems that are not only accurate, but also **reliable and clinically meaningful**.
 
----
+
 
 ## Publications
 
 My research contributions are documented in a growing body of publications covering:
 
-- Probabilistic modeling for deep learning  
-- Uncertainty estimation in neural networks  
+- Deep Representation Learning 
+- Real-Time Tracking in time-resolved 3D Ultrasound Imaging
 - Medical image analysis and computer vision  
 
 For a full and up-to-date list of publications, please visit my  
-[Google Scholar profile](https://scholar.google.de/citations?user=y4TS8SoAAAAJ).
+[Google Scholar profile](https://scholar.google.de/citations?view_op=list_works&hl=de&user=y4TS8SoAAAAJ&gmla=ALUCkoV-Nh7O_iCjW3lfmY4iehSmUCSrpYXEGo-aZ0-fYrOsWb8QqmwfzuznuasJp0kT7ZPV8UU3PzGCIP0XsOpHXekNvMpT98g8fg8ArDfR1S1Dt3LL9lyW).
 
----
+
 
 ## Vision
 
@@ -59,7 +60,7 @@ My research aims to bridge the gap between **state-of-the-art AI methods** and *
 - More **robust**
 - More **aware of their limitations**
 
----
+
 
 ## Contact
 
