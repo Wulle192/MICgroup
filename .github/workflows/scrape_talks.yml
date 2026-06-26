@@ -21,18 +21,18 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Debug Python environment
+      - name: Show Python info
         run: |
+          echo "PATH=$PATH"
           python --version
           which python
-          which pip
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          python -m pip install jupyter pandas requests beautifulsoup4 geopy getorg
+          python -m pip install jupyter nbconvert pandas requests beautifulsoup4 geopy getorg
 
-      - name: Run Jupyter Notebook
+      - name: Run notebook (FORCED Python 3.11)
         run: |
           python -m jupyter nbconvert --to notebook --execute talkmap.ipynb --output talkmap_out.ipynb
 
