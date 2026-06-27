@@ -11,11 +11,13 @@ Below you can find a list of currently available topics. However, if none of the
 We look forward to hearing from you!
 
 ## Open Thesis Topics
+
 | Title | Level | Description | Requirements |
 |------|------|------------|--------------|
 | Integration of Anatomical Priors into Neural Networks for Organ Segmentation | Master | The project investigates the learning of probabilistic anatomical distributions (shape, size, and spatial relationships) from medical imaging data and their integration as priors into neural networks. These priors are leveraged to enhance segmentation performance under limited field-of-view and domain shifts. | Python
 
 ## Thesis in Progress
+
 | Title | Type | Level | Year |
 |------|------|------|------|
 | Uncertainty-Aware Stenoses Segmentation<br>in Digital Subtraction Angiography | Thesis | Bachelor | 2026 |
