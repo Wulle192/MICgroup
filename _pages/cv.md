@@ -11,54 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, University of Lübeck, 2024
+* M.S. in Medical Engineering Science, University of Lübeck, 2019
+* B.S. in Medical Engineering Science, University of Lübeck, 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Since 2024: Research Associate
+  * University of Rostock
+  * Leading Junior Research Group *Medical Image Computing*
+  * Research Focus: Uncertainty-Aware and Knowledge-Informed Deep Learning
+  * Supervisor: Jun.-Prof. Dr. Stefan Lüdtke
+  
+* 2019 - 2024: Research Associate & Ph.D Student
+  * University of Lübeck
+  * Research Focus: Deep Representation Learning for Real-Time Target Tracking in 4D Ultrasound
+  * Supervisor: Prof. Dr. Floris Ernst
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
