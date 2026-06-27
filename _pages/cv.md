@@ -7,13 +7,6 @@ redirect_from:
   - /resume
 ---
 
-# CV - Dr. Daniel Wulff
-
-## Education
-* Ph.D in Computer Science, University of Lübeck, 2024
-* M.S. in Medical Engineering Science, University of Lübeck, 2019
-* B.S. in Medical Engineering Science, University of Lübeck, 2017
-
 ## Work experience
 * Since 2024: Research Associate
   * University of Rostock
@@ -25,4 +18,15 @@ redirect_from:
   * University of Lübeck
   * Research Focus: Deep Representation Learning for Real-Time Target Tracking in 4D Ultrasound
   * Supervisor: Prof. Dr. Floris Ernst
+
+* 2018: Intern 
+  * Dentsply Sirona Deutschland GmbH
+  * Research Focus: Motion Detectionin Cone-Beam CT Imaging
+
+## Education
+* Ph.D in Computer Science, University of Lübeck, 2024
+* M.S. in Medical Engineering Science, University of Lübeck, 2019
+* B.S. in Medical Engineering Science, University of Lübeck, 2017
+
+
 
