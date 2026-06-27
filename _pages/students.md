@@ -19,7 +19,8 @@ We look forward to hearing from you!
 |------|------|------------|--------------|
 | Integration of Anatomical Priors into Neural Networks for Organ Segmentation | Master | The project investigates the learning of probabilistic anatomical distributions (shape, size, and spatial relationships) from medical imaging data and their integration as priors into neural networks. These priors are leveraged to enhance segmentation performance under limited field-of-view and domain shifts. | Python
 
-## Thesis in Progress
+
+## Theses in Progress
 
 | Title | Type | Level | Year |
 |------|------|------|------|
