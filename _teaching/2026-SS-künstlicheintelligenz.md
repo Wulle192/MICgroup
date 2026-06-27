@@ -8,7 +8,11 @@ date: 2026-04-01
 location: "Lübeck, Germany"
 ---
 
-More information coming soon...
+The bachelor course consisted of lectures, exercises and a python programming project dealing with fundamental Machine Learning methods.
+
+## Structure
+* Summer term 2025
+* English master seminar
 
 ## Content
 * Fundamental Machine Learning Methods

@@ -8,8 +8,11 @@ date: 2025-04-01
 location: "Rostock, Germany"
 ---
 
-More information coming soon...
+The master seminar consisted of lectures and independent study on advanced Deep Learning methods.
 
+## Structure
+* Teaching assignment in summer term 2026
+* German bachelor course
 
 ## Content
 * State-of-the-Art Deep Learning methods in image processing
