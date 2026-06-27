@@ -8,13 +8,9 @@ date: 2026-04-01
 location: "Lübeck, Germany"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+More information coming soon...
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+## Content
+* Fundamental Machine Learning Methods
+* Classification, Regression
+* (un-)informed Search, Hillclimbing, Decision Trees, Naive Bayes, SVM, Kalman Filter

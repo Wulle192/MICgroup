@@ -8,13 +8,10 @@ date: 2025-04-01
 location: "Rostock, Germany"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+More information coming soon...
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======
+## Content
+* State-of-the-Art Deep Learning methods in image processing
+* Object Segmentation, Object Detection, Image Registration
+* U-net, GAN, Autoencoders, Mask R-CNN, 
