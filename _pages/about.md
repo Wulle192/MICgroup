@@ -9,7 +9,8 @@ redirect_from:
 
 ## Welcome
 
-I am a researcher working at the intersection of **machine learning** and **medical image analysis**, with a particular focus on **uncertainty-aware and knowledge-informed approaches**. My work aims to make deep learning models more reliable, interpretable, and robust for real-world applications.
+I am a researcher working at the intersection of **machine learning** and **medical image analysis**, with a particular focus on **uncertainty-aware and knowledge-informed approaches**. 
+My work aims to make deep learning models more reliable, interpretable, and robust for real-world applications.
 
 
 
@@ -35,19 +36,6 @@ I apply these methods primarily in the field of **medical imaging**, including:
 - Other clinical imaging modalities
 
 The goal is to build systems that are not only accurate, but also **reliable and clinically meaningful**.
-
-
-
-## Publications
-
-My research contributions are documented in a growing body of publications covering:
-
-- Deep Representation Learning 
-- Real-Time Tracking in time-resolved 3D Ultrasound Imaging
-- Medical image analysis and computer vision  
-
-For a full and up-to-date list of publications, please visit my  
-[Google Scholar profile](https://scholar.google.de/citations?view_op=list_works&hl=de&user=y4TS8SoAAAAJ&gmla=ALUCkoV-Nh7O_iCjW3lfmY4iehSmUCSrpYXEGo-aZ0-fYrOsWb8QqmwfzuznuasJp0kT7ZPV8UU3PzGCIP0XsOpHXekNvMpT98g8fg8ArDfR1S1Dt3LL9lyW).
 
 
 
