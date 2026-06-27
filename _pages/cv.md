@@ -7,16 +7,14 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+# CV - Dr. Daniel Wulff
 
-Education
-======
+## Education
 * Ph.D in Computer Science, University of Lübeck, 2024
 * M.S. in Medical Engineering Science, University of Lübeck, 2019
 * B.S. in Medical Engineering Science, University of Lübeck, 2017
 
-Work experience
-======
+## Work experience
 * Since 2024: Research Associate
   * University of Rostock
   * Leading Junior Research Group *Medical Image Computing*
