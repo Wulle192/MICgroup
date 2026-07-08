@@ -24,7 +24,7 @@ repository               : "Wulle192/MICgroup.github.io"
 author:
   # Biographic information
   avatar           : "4df7702c.jpg"
-  name             : "Dr. Daniel Wulff"
+  name             : "Dr. rer. nat. Daniel Wulff"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : "Rostock, Germany"
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # "wulle192"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 

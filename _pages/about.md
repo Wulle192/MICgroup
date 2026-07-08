@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Research Group Medical Image Computing"
+title: "Junior Research Group Medical Image Computing"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,8 +9,13 @@ redirect_from:
 
 ## Welcome
 
-I am a researcher working at the intersection of **machine learning** and **medical image analysis**, with a particular focus on **uncertainty-aware and knowledge-informed approaches**. 
+I am a researcher working at the intersection of **machine learning** and 
+**medical image analysis**, with a particular focus on **uncertainty-aware and knowledge-informed approaches**. 
 My work aims to make deep learning models more reliable, interpretable, and robust for real-world applications.
+
+I am leading the Junior Research Group Medical Image Computing within the Chair 
+of [*Marine Data Science*](https://marine-data-science.github.io/mds-website/), 
+headed by Jun.-Prof. Stefan Lüdtke, at the University of Rostock.
 
 
 

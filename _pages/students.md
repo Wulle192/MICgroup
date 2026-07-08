@@ -13,14 +13,19 @@ Below you can find a list of currently available topics. However, if none of the
 
 We look forward to hearing from you!
 
-## Open Thesis Topics
+## Open
+
+If you are interested in pursuing a thesis, contact me at [d.wulff@uni-rostock.de](mailto:d.wulff@uni-rostock.de).
+
+If there are no open topics available that fit your knowledge or interests, please feel free to reach out nonetheless. If capacity allows, we are happy to discuss potential thesis ideas together or explore how your own interests can be developed into a suitable research topic.
+
 
 | Title | Level | Description | Requirements |
 |------|------|------------|--------------|
-| Integration of Anatomical Priors into Neural Networks for Organ Segmentation | Master | The project investigates the learning of probabilistic anatomical distributions (shape, size, and spatial relationships) from medical imaging data and their integration as priors into neural networks. These priors are leveraged to enhance segmentation performance under limited field-of-view and domain shifts. | Python
+| Integration of Anatomical Priors into Neural Networks for Organ Segmentation | Master | The project investigates the learning of probabilistic anatomical distributions (shape, size, and spatial relationships) from medical imaging data and their integration as priors into neural networks. These priors are leveraged to enhance segmentation performance under limited field-of-view and domain shifts. | Python, Deep Learning, Image Processing
 
 
-## Theses in Progress
+## Ongoing
 
 | Title | Type | Level | Year |
 |------|------|------|------|
@@ -28,6 +33,11 @@ We look forward to hearing from you!
 | Data Domain Transfer from Stenotic to Healthy Digital Subtraction Angiography | Thesis | Master | 2026 |
 | Transfer Learning from Marine Sonar to Medical Ultrasound Imaging | Thesis | Bachelor | 2026 |
 
+## Finished
 
+| Title | Type | Level | Year |
+|------|------|------|------|
+| Analyse von Transfer Learning zwischen Medizinischen Ultraschall- und Sonarbilddaten | Thesis | Bachelor | 2026 |
+| Unsupervised Machine Learning for Anomaly Detection in Centrifugal Pumps | Thesis | Master | 2025 |
 
 

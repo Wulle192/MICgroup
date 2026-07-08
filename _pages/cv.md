@@ -22,6 +22,16 @@ redirect_from:
 * 2018: Intern 
   * Dentsply Sirona Deutschland GmbH
   * Research Focus: Motion Detectionin Cone-Beam CT Imaging
+  
+## Awards
+* 2025: Fokusfinder Award by *Initiative Bildverarbeitung e.V.*
+  * Best Thesis in the Category *Image Acquisition Techniques and Image/Signal Processing for the UV/VIS/IR Range*
+  
+* 2023: Best Poster Award 
+  * At *Annual Conference of the German Society for Computer- and Robotassisted Surgery* (CURAC)
+  
+* 2023: TCCLS Best Student Paper Award
+  * At *IEEE International Symposium on Computer-Based Medical Systems* (CBMS)
 
 ## Education
 * Ph.D in Computer Science, University of Lübeck, 2024

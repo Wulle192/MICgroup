@@ -17,4 +17,4 @@ The master seminar consisted of lectures and independent study on advanced Deep 
 ## Content
 * State-of-the-Art Deep Learning methods in image processing
 * Object Segmentation, Object Detection, Image Registration
-* U-net, GAN, Autoencoders, Mask R-CNN, 
+* U-Net, GAN, Autoencoders, Mask R-CNN
