@@ -25,8 +25,8 @@ redirect_from:
 
 ## Education
 * Ph.D in Computer Science, University of Lübeck, 2024
-* M.S. in Medical Engineering Science, University of Lübeck, 2019
-* B.S. in Medical Engineering Science, University of Lübeck, 2017
+* M.Sc. in Medical Engineering Science, University of Lübeck, 2019
+* B.Sc. in Medical Engineering Science, University of Lübeck, 2017
 
 
 
