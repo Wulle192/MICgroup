@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 You can find the complete list of my publications on my 
-[Google Scholar profile](https://scholar.google.com/your-profile-link).
+[Google Scholar profile](https://scholar.google.com/citations?hl=de&user=y4TS8SoAAAAJ).
 
 ## Selected Recent Publications
 
