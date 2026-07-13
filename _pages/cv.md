@@ -21,7 +21,7 @@ redirect_from:
 
 * 2018: Intern 
   * Dentsply Sirona Deutschland GmbH
-  * Research Focus: Motion Detectionin Cone-Beam CT Imaging
+  * Research Focus: Motion Detection in Cone-Beam CT Imaging
   
 ## Awards
 * 2025: Fokusfinder Award by *Initiative Bildverarbeitung e.V.*
