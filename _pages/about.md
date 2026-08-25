@@ -14,7 +14,7 @@ I am a researcher working at the intersection of **machine learning** and
 My work aims to make deep learning models more reliable, interpretable, and robust for real-world applications.
 
 I am leading the Junior Research Group Medical Image Computing within the Chair 
-of [*Marine Data Science*](https://marine-data-science.github.io/mds-website/), 
+of [*Marine Data Science*](https://www.mds-lab.de/), 
 headed by Jun.-Prof. Stefan Lüdtke, at the University of Rostock.
 
 
@@ -22,6 +22,9 @@ headed by Jun.-Prof. Stefan Lüdtke, at the University of Rostock.
 ## Research Interests
 
 My current research focuses on:
+
+- **Unsupervised Deep Representation Learning**  
+  Learning compact representations of volumetric image data, such as 3D ultrasound, to enable efficient downstream tasks including real-time target tracking.
 
 - **Uncertainty-Aware Image Processing**  
   Developing models that can quantify and communicate their uncertainty, including approaches from *probabilistic machine learning* and *evidential deep learning*.

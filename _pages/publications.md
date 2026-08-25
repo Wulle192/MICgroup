@@ -20,7 +20,6 @@ You can find the complete list of my publications on my
 **Age Prediction of Hematoma from Hyperspectral Images Using Convolutional Neural Networks**  
    A. Keshavarz, G. Bieber, D. Wulff, C. Babian, S. Lüdtke, *Journal of Imaging*, 12(2), 78, 2026.  
    [DOI: 10.3390/jimaging12020078](https://doi.org/10.3390/jimaging12020078)
----
 
 ### 2025
 
