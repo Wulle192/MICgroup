@@ -12,14 +12,14 @@ You can find the complete list of my publications on my
 
 ### 2026 
 
+**Evidential Segmentation of Iliac Stenoses: A Case Study on Modeling Expert Variability**  
+   D. Wulff, F. Wegner, M.-J. Buhne, R. Kloeckner, S. Lüdtke, *Current Directions in Biomedical Engineering*,  
+   12(1), 652-655, 2026. 
+   [DOI: 10.1515/cdbme-2026-0265](https://doi.org/10.1515/cdbme-2026-0265)
+
 **Introduction and validation of OSCAR—optimal stent choice algorithm**  
    F. Wegner, M.-J. Buhne, N. Erben, D. Wulff, E. Stahlberg, A. Storch, F. Dünschede, S. Mogadas, J. Ströder, F. Jacob, M.M. Sieren, J. Barkhausen, R. Kloeckner, *CVIR Endovascular*, 9(108), 2026.   
    [DOI: 10.1186/s42155-026-00760-1](https://doi.org/10.1186/s42155-026-00760-1)
-
-**Evidential Segmentation of Iliac Stenoses: A Case Study on Modeling Expert Variability**  
-   D. Wulff, F. Wegner, M.-J. Buhne, R. Kloeckner, S. Lüdtke, *Current Directions in Biomedical Engineering*, 2026,  
-   accepted at 60th Annual Conference of the German Society for Biomedical Engineering. 
-   [BMT 2026](https://www.bmt2026.de/)
 
 **Age Prediction of Hematoma from Hyperspectral Images Using Convolutional Neural Networks**  
    A. Keshavarz, G. Bieber, D. Wulff, C. Babian, S. Lüdtke, *Journal of Imaging*, 12(2), 78, 2026.  
